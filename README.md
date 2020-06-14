@@ -34,7 +34,7 @@ cd self_supervised
 * cd `scripts`
 * Run `sh train_fold.sh` to start the training process
 * See `train_ablation.sh` for ablation study
-
+* See `supervised_fundus.py` for supervised baselines
 
 ## Note
 * Contact: Xiaomeng Li (xmengli999@gmail.com)
