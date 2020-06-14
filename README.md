@@ -21,7 +21,7 @@ cd self_supervised
 
 
 ## Evaluate 
-* Download [our models](https://download.pytorch.org/models/resnet50-19c8e357.pth) and put it under `./savedmodels/`
+* Download [our models](https://pan.baidu.com/s/1B6JK5ljhWz0V655obtX3og), password: gja3, and put it under `./savedmodels/`
 * cd `scripts`
 * Run `sh evaluate_fold.sh` to start the evaluation process
 * 5-fold cross-validation results: 
