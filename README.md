@@ -2,6 +2,15 @@
 
 Pytorch implementation 
 
+## Paper
+[Self-supervised Feature Learning via Exploiting Multi-modal Data for Retinal Disease Diagnosis.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9139411)
+<br/>
+IEEE Transactions on Medical Imaging, 2020
+<br/>
+<br/>
+<p align="center">
+  <img src="figure/framework.png">
+</p>
 
 ## Installation
 
