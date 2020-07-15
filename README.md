@@ -1,4 +1,4 @@
-## Self-supervised Feature Learning via Exploiting Multi-modal Data for Retinal Disease Diagnosis
+## TMI20: Self-supervised Feature Learning via Exploiting Multi-modal Data for Retinal Disease Diagnosis
 
 Pytorch implementation 
 
