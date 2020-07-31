@@ -47,3 +47,18 @@ cd self_supervised
 
 ## Note
 * Contact: Xiaomeng Li (xmengli999@gmail.com)
+
+## Citation
+
+If this code is useful for your research, please consider citing:
+
+  ```shell
+@article{li2020self,
+  title={Self-supervised Feature Learning via Exploiting Multi-modal Data for Retinal Disease Diagnosis},
+  author={Li, Xiaomeng and Jia, Mengyu and Islam, Md Tauhidul and Yu, Lequan and Xing, Lei},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2020},
+  publisher={IEEE}
+}
+
+  ```
