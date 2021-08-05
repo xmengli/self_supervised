@@ -30,7 +30,7 @@ cd self_supervised
 
 
 ## Evaluate 
-* Download [our models](https://pan.baidu.com/s/1B6JK5ljhWz0V655obtX3og), password: gja3, and put it under `./savedmodels/`
+* Download [our models in Baidu](https://pan.baidu.com/s/1B6JK5ljhWz0V655obtX3og) password: gja3, or [our models in Onedrive](https://gohkust-my.sharepoint.com/:u:/g/personal/eexmli_ust_hk/Ed_ztti_E_tHq0Bfsd_uavsBTEk4S2XuH1FGfNZcx2ZztQ?e=6GeEAv), and put it under `./savedmodels/`
 * cd `scripts`
 * Run `sh evaluate_fold.sh` to start the evaluation process
 * 5-fold cross-validation results: 
