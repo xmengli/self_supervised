@@ -38,7 +38,7 @@ idna==2.8
 imageio==2.6.1
 imgaug==0.3.0
 importlib-metadata==0.23
-ipython==7.8.0
+ipython==8.10.0
 ipython-genutils==0.2.0
 jedi==0.15.1
 joblib==0.13.2
