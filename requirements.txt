@@ -138,7 +138,7 @@ visdom==0.1.8.9
 wcwidth==0.1.7
 WebOb==1.8.5
 websocket-client==0.57.0
-Werkzeug==0.16.0
+Werkzeug==2.2.3
 WTForms==2.2.1
 wtforms-recaptcha==0.3.2
 xlrd==1.2.0
